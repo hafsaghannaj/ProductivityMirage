@@ -62,7 +62,3 @@ jupyter notebook productivity_mirage.ipynb
 - **Political Economy**: US-China decoupling, industrial policy (CHIPS Act, IRA), fiscal dominance
 - **History**: Analogies to 1960s–70s regime shift (guns-and-butter → stagflation)
 - **Computer Science**: Systematic indicator construction, signal processing, algorithmic backtesting
-
----
-
-*Built for the Bridgewater Associates 2027 Investment Associate Intern application.*
